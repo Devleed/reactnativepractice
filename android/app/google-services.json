@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936169566699",
+    "firebase_url": "https://streamify-259718.firebaseio.com",
+    "project_id": "streamify-259718",
+    "storage_bucket": "streamify-259718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936169566699:android:c4e5ffd10dbdcbe76029ae",
+        "android_client_info": {
+          "package_name": "com.reactnativepractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0o93YuS7pqrHVmhW9UYVIuJ7RxKGTPSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936169566699-qk9l79ntcp1ejbtrredbmc15n52ftftt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
